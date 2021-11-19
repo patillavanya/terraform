@@ -5,6 +5,9 @@ Terraform configuration files to provision an EKS cluster on AWS.# terraform
 
 at first initialize a terraform
 
-terraform init
-terraform plan
-terraform apply
+**terraform init**
+
+**terraform plan**
+
+
+**terraform apply**
