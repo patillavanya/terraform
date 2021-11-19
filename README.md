@@ -4,6 +4,7 @@ This repo is a companion repo to the [Provision an EKS Cluster learn guide](http
 Terraform configuration files to provision an EKS cluster on AWS.# terraform
 
 at first initialize a terraform
+Steps to run the terraform :
 
 **terraform init**
 
